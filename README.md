@@ -43,6 +43,5 @@ Utilize o SDK do Raspberry Pi Pico com CMake para compilar o código.
 
 ## Autor
 
-João Marcelo Nascimento Fernandes
-Desenvolvido como parte de estudos de sistemas embarcados.
+João Marcelo Nascimento Fernandes - Desenvolvido como parte de estudos de sistemas embarcados.
 
