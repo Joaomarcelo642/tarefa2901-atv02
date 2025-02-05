@@ -37,9 +37,9 @@ Ao pressionar o botão conectado ao pino GPIO 5, os três LEDs (conectados aos p
    - Após mais 3 segundos, LED3 apaga.
 4. O sistema fica pronto para uma nova ativação após o término da sequência.
 
-## Compilação e Upload
+## Compilação
 
-Utilize o SDK do Raspberry Pi Pico com CMake para compilar o código e realizar o upload para a placa.
+Utilize o SDK do Raspberry Pi Pico com CMake para compilar o código.
 
 ## Autor
 
